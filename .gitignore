@@ -1,0 +1,11 @@
+# env
+.env
+backend/.env
+
+# node
+node_modules/
+
+# backups
+backups/*.sql
+
+keys/
